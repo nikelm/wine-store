@@ -1,0 +1,7 @@
+.intro__glass {
+  margin: 0 auto;
+  background-image: url(../../../images/wineglass.svg);
+  width: 160px;
+  height: 160px;
+  margin-top: 50px;
+}

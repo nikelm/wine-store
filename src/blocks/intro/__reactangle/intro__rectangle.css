@@ -1,0 +1,9 @@
+.intro__rectangle {
+  width: 1110px;
+  height: 656px;
+  position: absolute;
+  left: 85px;
+  top: 100px;
+  outline: 3px solid #C4C4C4;
+  box-sizing: border-box;
+}

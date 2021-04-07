@@ -1,0 +1,14 @@
+@import url(./__reactangle/intro__rectangle.css);
+@import url(./__main/intro__main.css);
+@import url(./__title/intro__title.css);
+@import url(./__line/intro__line.css);
+@import url(./__text/intro__text.css);
+@import url(./__glass/intro__glass.css);
+
+.intro {
+  background-color: rgba(40,40,40,1);
+  margin: 0 auto;
+  width: 1280px;
+  height: 856px;
+  position: relative;
+}
