@@ -1,3 +1,7 @@
+import youTube from '../images/carbon_logo-youtube.svg';
+import vk from '../images/entypo-social_vk.svg';
+import faceBook from '../images/bx_bxl-facebook.svg';
+
 function Footer() {
   return (
     <section className="footer">
@@ -40,25 +44,33 @@ function Footer() {
           </li>
         </ul>
         <ul className="footer__menu footer__menu_bottom">
-          <li className="footer__menu-item">
-            <button className="footer__menu-button">
+          <li className="footer__menu-item footer__menu-item_border">
+            <a href="/" className="footer__links-item">
               винный бутик LE CORTE
-            </button>
+            </a>
           </li>
-          <li className="footer__menu-item">
-            <button className="footer__menu-button">
+          <li className="footer__menu-item footer__menu-item_border">
+            <p className="footer__menu-button">
               8 (812) 123-45-67
-            </button>
+            </p>
+          </li>
+          <li className="footer__menu-item footer__menu-item_border">
+            <div className="footer__links">
+              <a href="https://youtube.com" className="footer__links-item">
+                <img src={youTube} alt="YouTube" className="footer__img" />
+              </a>
+              <a href="https://vk.com" className="footer__links-item">
+                <img src={vk} alt="VK" className="footer__img" />
+              </a>
+              <a href="https://facebook.com" className="footer__links-item">
+                <img src={faceBook} alt="FaceBook" className="footer__img" />
+              </a>
+            </div>
           </li>
           <li className="footer__menu-item">
-            <button className="footer__menu-button">
-              Контакты
-            </button>
-          </li>
-          <li className="footer__menu-item">
-            <button className="footer__menu-button">
-            © le-corte.ru
-            </button>
+            <p className="footer__menu-button">
+              © le-corte.ru
+            </p>
           </li>
         </ul>
       </div>

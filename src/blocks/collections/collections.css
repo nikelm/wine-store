@@ -1,0 +1,24 @@
+@import url(./__container/collections__container.css);
+@import url(./__title/collections__title.css);
+@import url(./__description/collections__description.css);
+@import url(./__subtitle/collections__subtitle.css);
+@import url(./__text/collections__text.css);
+@import url(./__table/collections__table.css);
+@import url(./__table-row/collections__table-row.css);
+@import url(./__table-cell-year/collections__table-cell-year.css);
+@import url(./__table-cell-description/collections__table-cell-description.css);
+@import url(./__table-title/collections__table-title.css);
+@import url(./__table-subtitle/collections__table-subtitle.css);
+@import url(./__button/collectoins__button.css);
+@import url(./__image/collections__image.css);
+@import url(./__image-intro/collections__image-intro.css);
+@import url(./__image-container/collections__image-container.css);
+@import url(./__image-wine-1/collections__image-wine-1.css);
+@import url(./__image-wine-2/collections__image-wine-2.css);
+
+.collections {
+  margin: 0 auto;
+  width: 1280px;
+  height: 1038px;
+  background-color: #E6E3C4;
+}
