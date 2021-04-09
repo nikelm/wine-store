@@ -1,0 +1,10 @@
+.collections__container {
+  width: 1110px;
+  height: 876px;
+  border-top: 1px solid #998431;
+  border-bottom: 1px solid #998431;
+  position: absolute;
+  top: 80px;
+  left: 85px;
+  display: flex;
+}
