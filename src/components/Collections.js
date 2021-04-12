@@ -31,10 +31,10 @@ function Collections() {
               </div>
             </div>
             <div className="collections__table-row">
-              <p className="collections__table-cell-year">1980</p>
+              <p className="collections__table-cell-year collections__table_border">1980</p>
               <div className="collections__table-cell-description">
                 <p className="collections__table-title">Colli Euganei Bianco Ca' Lustra 1980</p>
-                <p className="collections__table-subtitle">Красочная бутылка вина из Марселя</p>
+                <p className="collections__table-subtitle collections__table_border">Красочная бутылка вина из Марселя</p>
               </div>
             </div>
           </div>
