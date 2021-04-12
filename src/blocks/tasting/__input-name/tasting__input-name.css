@@ -1,0 +1,21 @@
+.tasting__input-name {
+  border: none;
+  padding: 0;
+  width: 255px;
+  height: 30px;
+  background-color: transparent;
+  color: white;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 150%;
+  border-bottom: 1px solid #C4C4C4;
+  margin-right: 30px;
+  outline: none;
+}
+
+.tasting__input-name::placeholder {
+  color: white;
+}
+

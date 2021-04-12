@@ -1,0 +1,10 @@
+.tasting__image-container {
+  width: 1280px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  top: -132px;
+  left: -85px;
+  bottom: 0;
+}

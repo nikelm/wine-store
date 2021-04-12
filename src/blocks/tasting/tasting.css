@@ -1,6 +1,22 @@
+@import url(./__container/tasting__container.css);
+@import url(./__image-container/tasting__image-container.css);
+@import url(./__title/tasting__title.css);
+@import url(./__image1/tasting__image1.css);
+@import url(./__image2/tasting__image2.css);
+@import url(./__decor-line/tasting__decor-line.css);
+@import url(./__form/tasting__form.css);
+@import url(./__form-title/tasting__form-title.css);
+@import url(./__form-inputs/tasting__form-inputs.css);
+@import url(./__input-name/tasting__input-name.css);
+@import url(./__input-phone/tasting__input-phone.css);
+@import url(./__form-input/tasting__form-input.css);
+@import url(./__input-address/tasting__input-address.css);
+@import url(./__form-button/tasting__form-button.css);
+
 .tasting {
   margin: 0 auto;
   width: 1280px;
   height: 767px;
   background: #282828;
+  position: relative;
 }

@@ -1,0 +1,9 @@
+.tasting__form {
+  margin: 0 auto;
+  width: 539px;
+  height: 353px;
+  position: relative;
+  top: -196px;
+  display: flex;
+  flex-direction: column;
+}
