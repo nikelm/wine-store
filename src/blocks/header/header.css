@@ -1,3 +1,12 @@
+@import url(./__nav/header__nav.css);
+@import url(./__nav-container/header__nav-container.css);
+@import url(./__text/header__text.css);
+@import url(./__menu/header__menu.css);
+@import url(./__menu-item/header__menu-item.css);
+@import url(./__menu-button/header__menu-button.css);
+@import url(./__button-container/header__button-container.css);
+@import url(./__button-item/header__button-item.css);
+
 .header {
   margin: 0 auto;
   width: 1280px;
